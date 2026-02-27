@@ -2,10 +2,10 @@
  
 Prompts for building deep, structured understanding of new concepts from first principles.
  
----markdown
- 
-# CONCEPT EXPLANATION PROTOCOL
+---
 
+ ```markdown
+# CONCEPT EXPLANATION PROTOCOL
 ## Input
 **Concept to explain:** <CONCEPT>
 
