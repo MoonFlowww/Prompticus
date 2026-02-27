@@ -101,9 +101,6 @@ Describe what someone needs to hold in their head to reconstruct this concept fr
 
 **If code-adjacent:**
 Provide a minimal pseudocode or structural sketch.
-```
-[≤10 lines]
-```
 
 **If not code-adjacent:**
 Provide a minimal analogy that preserves the logic exactly — not just the feel.
