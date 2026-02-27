@@ -1,4 +1,14 @@
-
+# Learning
+ 
+Prompts for building deep, structured understanding of new concepts from first principles.
+ 
+---
+ 
+## Explain: \<CONCEPT\>
+ 
+**Usage:** Replace `<CONCEPT>` with the concept you want to learn (e.g., `Kalman Filter`, `Cointegration`, `Attention Mechanism`).
+ 
+---
 
 
 ```Markdown
