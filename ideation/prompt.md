@@ -1,12 +1,12 @@
-# Learning
+# Ideation
  
-Prompts for building deep, structured understanding of new concepts from first principles.
+Prompts to verify and find hypothesis, as well as finding improvement ideas (will stick to the core idea).
  
 ---
  
-## Explain: \<CONCEPT\>
+## Explain: \<IDEA\>
  
-**Usage:** Replace `<CONCEPT>` with the concept you want to learn (e.g., `Kalman Filter`, `Cointegration`, `Attention Mechanism`).
+**Usage:** Replace `<IDEA>` with the hypothesis you want to verify/elaborate (e.g., `Analyzing phase transition via Local renormalization group over 3d space`).
  
 ---
 
